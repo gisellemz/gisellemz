@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giselle!
+- 👋 Hi, I’m giselle!
 - 👀 I’m interested in writing and 3D modeling
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on learning and collboration groups
